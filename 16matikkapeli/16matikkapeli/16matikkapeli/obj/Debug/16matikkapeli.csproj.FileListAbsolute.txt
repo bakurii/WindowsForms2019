@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\bin\Debug\16matikkapeli.exe.config
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\bin\Debug\16matikkapeli.exe
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\bin\Debug\16matikkapeli.pdb
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\16matikkapeli.csprojAssemblyReference.cache
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\_16matikkapeli.Form1.resources
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\_16matikkapeli.Properties.Resources.resources
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\16matikkapeli.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\16matikkapeli.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\16matikkapeli.exe
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\16matikkapeli.pdb
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\_16matikkapeli.FormPisteet.resources
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\_16matikkapeli.Kerto.resources
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\_16matikkapeli.PlusLasku.resources
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\_16matikkapeli.Miinus.resources
+C:\Users\Omistaja\source\repos\16matikkapeli\16matikkapeli\16matikkapeli\obj\Debug\_16matikkapeli.Jako.resources
